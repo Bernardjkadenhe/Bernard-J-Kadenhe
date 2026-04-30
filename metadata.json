@@ -1,0 +1,5 @@
+{
+  "name": "Born Victorious",
+  "description": "Christian clothing brand selling t-shirts with AI-powered size fitting.",
+  "requestFramePermissions": ["camera"]
+}
